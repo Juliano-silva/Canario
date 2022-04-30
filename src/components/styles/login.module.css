@@ -1,0 +1,25 @@
+body{
+    background: rgb(99, 96, 96);
+}
+.login{
+    border: 1px solid black;
+    background: black;
+    text-align: center;
+    width: 40%;
+    border-radius: 20px;
+    height: 50em;
+    margin: auto;
+    margin-top: 50px;
+}
+input{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    height: 5em;
+    width: 50em;
+    border-radius: 20px;
+}
+input::placeholder{
+    color: red;
+    text-align: center;
+}

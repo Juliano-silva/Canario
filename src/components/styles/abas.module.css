@@ -1,0 +1,16 @@
+.list{
+    position: fixed;
+    border: 1px solid turquoise;
+    width: 10em;
+    list-style: none;
+    margin-left: 60px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    text-align: center;
+    border: 1px solid red;
+    margin: auto;
+    margin-left: -40px;
+}
